@@ -17,7 +17,6 @@ The brains of the system. A Raspberry Pi RP2354A (dual Cortex-M33 at 150 MHz, 52
 
 | Feature | Detail |
 |---|---|
-
 | **USB** | USB Type-C composite device (CDC serial, SocketCAN, debug) |
 | **CAN** | MCP2518FD CAN-FD controller + SN65HVD230 transceiver |
 | **RS485** | SP3485EN half-duplex transceiver with DE control |
