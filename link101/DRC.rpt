@@ -1,0 +1,208 @@
+** Drc report for link101.kicad_pcb **
+** Created on 2026-03-30T20:41:13+0300 **
+
+** Found 50 DRC violations **
+[annular_width]: Annular width (board setup constraints min annular width 0.0750 mm; actual -0.0032 mm)
+    Rule: board setup constraints; error
+    @(233.6800 mm, 91.7700 mm): PTH pad [<no net>] of USB1
+[annular_width]: Annular width (board setup constraints min annular width 0.0750 mm; actual -0.0032 mm)
+    Rule: board setup constraints; error
+    @(233.6800 mm, 97.5700 mm): PTH pad [<no net>] of USB1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2867 mm)
+    Rule: board setup constraints hole; error
+    @(245.5000 mm, 95.3500 mm): Track [Net-(U8-USB_DP)] on F.Cu, length 0.3330 mm
+    @(244.8000 mm, 95.4000 mm): Via [Net-(U8-USB_DM)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2580 mm)
+    Rule: board setup constraints hole; error
+    @(250.3597 mm, 107.7185 mm): Track [+3V3] on F.Cu, length 2.1570 mm
+    @(249.7612 mm, 108.1900 mm): Via [GND] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2853 mm)
+    Rule: board setup constraints hole; error
+    @(245.0000 mm, 95.8569 mm): Track [Net-(U8-USB_DP)] on F.Cu, length 0.7431 mm
+    @(244.8000 mm, 95.4000 mm): Via [Net-(U8-USB_DM)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2950 mm)
+    Rule: board setup constraints hole; error
+    @(236.0415 mm, 102.9085 mm): Track [Net-(C1-Pad1)] on F.Cu, length 1.9670 mm
+    @(236.8000 mm, 102.4000 mm): Via [/MCU/SPI_CS] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2867 mm)
+    Rule: board setup constraints hole; error
+    @(245.2645 mm, 95.5855 mm): Track [Net-(U8-USB_DP)] on F.Cu, length 0.0069 mm
+    @(244.8000 mm, 95.4000 mm): Via [Net-(U8-USB_DM)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2580 mm)
+    Rule: board setup constraints hole; error
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2967 mm)
+    Rule: board setup constraints hole; error
+    @(235.7000 mm, 103.2500 mm): Track [Net-(C1-Pad1)] on F.Cu, length 0.4830 mm
+    @(236.0000 mm, 102.4000 mm): Via [/SPI_MISO] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2865 mm)
+    Rule: board setup constraints hole; error
+    @(249.6800 mm, 91.0800 mm): Track [+3V3] on B.Cu, length 3.0800 mm
+    @(249.1800 mm, 90.5800 mm): Via [+1V1] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(245.2645 mm, 95.5924 mm): Track [Net-(U8-USB_DP)] on F.Cu, length 0.3741 mm
+    @(244.8000 mm, 95.4000 mm): Via [Net-(U8-USB_DM)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(254.6955 mm, 94.2955 mm): Track [/MCU/SWD] on B.Cu, length 2.1341 mm
+    @(255.1600 mm, 92.4000 mm): Via [GND] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(231.7500 mm, 100.7931 mm): Track [/SPI_MISO] on F.Cu, length 0.6471 mm
+    @(232.4000 mm, 100.8000 mm): Via [/SPI_MOSI] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2619 mm)
+    Rule: board setup constraints hole; error
+    @(245.8569 mm, 101.2000 mm): Track [/SPI_MOSI] on B.Cu, length 0.0912 mm
+    @(245.6000 mm, 100.8000 mm): Via [/MCU/RS485_TX] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2867 mm)
+    Rule: board setup constraints hole; error
+    @(245.2645 mm, 94.5855 mm): Track [+1V1] on F.Cu, length 0.0069 mm
+    @(244.8000 mm, 94.4000 mm): Via [+3V3] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2518 mm)
+    Rule: board setup constraints hole; error
+    @(239.3500 mm, 93.6500 mm): Pad 6 [/MCU/USB_D+] of D8 on F.Cu
+    @(240.0000 mm, 93.0000 mm): Via [Net-(U8-USB_DP)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2619 mm)
+    Rule: board setup constraints hole; error
+    @(250.2000 mm, 101.2000 mm): Track [/SPI_MOSI] on B.Cu, length 4.3431 mm
+    @(245.6000 mm, 100.8000 mm): Via [/MCU/RS485_TX] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(240.3355 mm, 94.9355 mm): Track [Net-(U8-USB_DP)] on B.Cu, length 4.6569 mm
+    @(244.8000 mm, 95.4000 mm): Via [Net-(U8-USB_DM)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2867 mm)
+    Rule: board setup constraints hole; error
+    @(245.3000 mm, 94.5500 mm): Track [+1V1] on F.Cu, length 0.0502 mm
+    @(244.8000 mm, 94.4000 mm): Via [+3V3] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(245.2645 mm, 94.5924 mm): Track [+1V1] on F.Cu, length 0.3848 mm
+    @(244.8000 mm, 94.4000 mm): Via [+3V3] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(245.2645 mm, 95.2076 mm): Track [Net-(U8-USB_DP)] on B.Cu, length 1.1279 mm
+    @(244.8000 mm, 95.4000 mm): Via [Net-(U8-USB_DM)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(244.9924 mm, 94.9355 mm): Track [Net-(U8-USB_DP)] on B.Cu, length 0.3848 mm
+    @(244.8000 mm, 95.4000 mm): Via [Net-(U8-USB_DM)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2619 mm)
+    Rule: board setup constraints hole; error
+    @(245.3431 mm, 101.2000 mm): Track [/SPI_MOSI] on B.Cu, length 10.5431 mm
+    @(245.6000 mm, 100.8000 mm): Via [/MCU/RS485_TX] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(245.7924 mm, 101.2645 mm): Track [/SPI_MOSI] on B.Cu, length 0.3848 mm
+    @(245.6000 mm, 100.8000 mm): Via [/MCU/RS485_TX] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(236.2645 mm, 101.9355 mm): Track [/SPI_MISO] on B.Cu, length 0.6645 mm
+    @(236.8000 mm, 102.4000 mm): Via [/MCU/SPI_CS] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2619 mm)
+    Rule: board setup constraints hole; error
+    @(245.4076 mm, 101.2645 mm): Track [/SPI_MOSI] on B.Cu, length 0.0912 mm
+    @(245.6000 mm, 100.8000 mm): Via [/MCU/RS485_TX] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2636 mm)
+    Rule: board setup constraints hole; error
+    @(235.7000 mm, 105.5000 mm): Pad 1 [Net-(U1-OSC1)] of C26 on F.Cu
+    @(235.0000 mm, 105.2000 mm): Via [Net-(U1-~{INT0}/GPIO0/XSTBY)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(244.9924 mm, 94.8645 mm): Track [+1V1] on F.Cu, length 0.9924 mm
+    @(244.8000 mm, 94.4000 mm): Via [+3V3] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2520 mm)
+    Rule: board setup constraints hole; error
+    @(253.8931 mm, 96.1500 mm): Track [/MCU/XOUT] on F.Cu, length 0.1619 mm
+    @(254.2000 mm, 95.8000 mm): Via [+1V1] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2815 mm)
+    Rule: board setup constraints hole; error
+    @(255.2000 mm, 103.8000 mm): Track [/MotorInterfaces/STSM_TXEN] on B.Cu, length 2.4042 mm
+    @(256.2000 mm, 105.5000 mm): Via [/MotorInterfaces/STSM_TX] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(254.6955 mm, 92.1614 mm): Track [/MCU/SWD] on B.Cu, length 0.7135 mm
+    @(254.6000 mm, 91.6000 mm): Via [+3V3] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(247.8694 mm, 103.7875 mm): Track [/UART0_RX] on B.Cu, length 1.0332 mm
+    @(247.8000 mm, 103.2000 mm): Via [/UART0_TX] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(252.8645 mm, 95.3355 mm): Track [/MCU/SWCLK] on F.Cu, length 1.5279 mm
+    @(254.2000 mm, 95.8000 mm): Via [+1V1] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(246.9355 mm, 97.7355 mm): Track [+3V3] on F.Cu, length 3.4000 mm
+    @(248.6000 mm, 98.2000 mm): Via [+1V1] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(245.3355 mm, 98.6645 mm): Track [/MCU/QSPI_SS] on B.Cu, length 4.1431 mm
+    @(248.6000 mm, 98.2000 mm): Via [+1V1] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2893 mm)
+    Rule: board setup constraints hole; error
+    @(254.3924 mm, 95.3355 mm): Track [/MCU/SWCLK] on F.Cu, length 0.8721 mm
+    @(254.2000 mm, 95.8000 mm): Via [+1V1] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(251.7355 mm, 98.2645 mm): Track [+3V3] on F.Cu, length 0.8710 mm
+    @(251.4000 mm, 97.8000 mm): Via [/MotorInterfaces/STSM_TXEN] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(247.2645 mm, 97.2645 mm): Track [+1V1] on B.Cu, length 2.2000 mm
+    @(246.8000 mm, 96.2000 mm): Via [+3V3] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(255.6245 mm, 94.9755 mm): Track [/MCU/SWCLK] on B.Cu, length 3.3510 mm
+    @(255.1600 mm, 92.4000 mm): Via [GND] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2965 mm)
+    Rule: board setup constraints hole; error
+    @(246.0682 mm, 101.7100 mm): Track [/SPI_MISO] on B.Cu, length 6.6218 mm
+    @(251.2000 mm, 101.2000 mm): Via [/MCU/CAN_INT] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(232.2076 mm, 100.3355 mm): Track [/SPI_MISO] on F.Cu, length 3.3279 mm
+    @(232.4000 mm, 100.8000 mm): Via [/SPI_MOSI] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2520 mm)
+    Rule: board setup constraints hole; error
+    @(252.8500 mm, 96.1500 mm): Track [/MCU/XOUT] on F.Cu, length 1.0431 mm
+    @(254.2000 mm, 95.8000 mm): Via [+1V1] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(254.0076 mm, 96.2645 mm): Track [/MCU/XOUT] on F.Cu, length 1.7279 mm
+    @(254.2000 mm, 95.8000 mm): Via [+1V1] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2967 mm)
+    Rule: board setup constraints hole; error
+    @(236.0415 mm, 102.9085 mm): Track [Net-(C1-Pad1)] on F.Cu, length 1.9670 mm
+    @(236.0000 mm, 102.4000 mm): Via [/SPI_MISO] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2865 mm)
+    Rule: board setup constraints hole; error
+    @(259.8000 mm, 101.6000 mm): Track [/SDA] on B.Cu, length 3.5000 mm
+    @(257.0000 mm, 101.1000 mm): Via [/SCL] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2686 mm)
+    Rule: board setup constraints hole; error
+    @(236.9290 mm, 101.9355 mm): Track [/SPI_MISO] on B.Cu, length 0.3189 mm
+    @(236.8000 mm, 102.4000 mm): Via [/MCU/SPI_CS] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2750 mm)
+    Rule: board setup constraints hole; error
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2510 mm)
+    Rule: board setup constraints hole; error
+    @(266.3555 mm, 92.0445 mm): Track [+3V3] on F.Cu, length 3.9920 mm
+    @(266.8200 mm, 93.2000 mm): Via [GND] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2636 mm)
+    Rule: board setup constraints hole; error
+    @(235.7000 mm, 105.5000 mm): Pad 1 [Net-(U1-OSC1)] of C26 on F.Cu
+    @(235.0000 mm, 105.2000 mm): Via [Net-(U1-~{INT0}/GPIO0/XSTBY)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.3000 mm; actual 0.2518 mm)
+    Rule: board setup constraints hole; error
+    @(239.3500 mm, 93.6500 mm): Pad 6 [/MCU/USB_D+] of D8 on F.Cu
+    @(240.0000 mm, 93.0000 mm): Via [Net-(U8-USB_DP)] on F.Cu - B.Cu
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(228.0000 mm, 80.2000 mm): Zone [GND] on B.Cu, priority 1
+    @(228.0000 mm, 80.2000 mm): Zone [GND] on B.Cu, priority 1
+
+** Found 0 Footprint errors **
+
+** End of Report **

@@ -1,0 +1,10 @@
+ (version 1)
+
+  (rule "Edge mount switches"
+    (condition "A.Reference == 'SW1' || A.Reference == 'SW3' || A.Reference == 'SW4'")
+    (constraint edge_clearance (min 0mm)))
+
+
+  (rule "Ignore mounting holes"
+    (condition "A.Pad_Type == 'NPTH, mechanical'")
+    (constraint annular_width (min 0mm)))
