@@ -1,5 +1,7 @@
 # link101 Hardware
 
+![](link101_carrier/pcb_trimmed.png)
+
 link101 is a multi-protocol USB interface board. One Type-C cable gives you CAN-FD, RS485, Dynamixel, Feetech, UART, I2C, and MIT Cheetah-protocol ports, all as stable Linux devices.
 
 ## Architecture
